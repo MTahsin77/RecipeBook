@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">RecipeBookApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="recipes">Recipes</string>
+    <string name="meal_planner">Meal Planner</string>
+    <string name="shopping_list">Shopping List</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="image">image</string>
+    <string name="add_to_shopping_list">Add to Shopping List</string>
+    <string name="clear_shopping_list">Clear Shopping List</string>
+    <string name="remove_item">Remove item</string>
+    <string name="generate_recipe">Generate Recipe</string>
+    <string-array name="meal_types">
+        <item>Breakfast</item>
+        <item>Lunch</item>
+        <item>Dinner</item>
+        <item>Snack</item>
+    </string-array>
+</resources>
